@@ -6,11 +6,11 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "johndiniz/eslint-config-johndiniz"
+    "url": "johndiniz/johndiniz-eslint-config"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
-    "typescript": ">=johndiniz5"
+    "typescript": ">=5"
   },
   "peerDependenciesMeta": {
     "typescript": {
