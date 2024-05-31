@@ -1,16 +1,16 @@
 {
-  "name": "@rocketseat/eslint-config",
+  "name": "@johndiniz/eslint-config",
   "version": "2.2.2",
   "private": false,
-  "description": "ESLint configuration used by Rocketseat.",
+  "description": "ESLint configuration used by johndiniz.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "rocketseat/eslint-config-rocketseat"
+    "url": "johndiniz/eslint-config-johndiniz"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
-    "typescript": ">=5"
+    "typescript": ">=johndiniz5"
   },
   "peerDependenciesMeta": {
     "typescript": {
